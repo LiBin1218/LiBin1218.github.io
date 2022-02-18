@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://libin1218.github.io/comments/index.html</loc>
+    
+    <lastmod>2022-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://libin1218.github.io/bangzhu/index.html</loc>
+    
+    <lastmod>2022-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://libin1218.github.io/link/index.html</loc>
     
-    <lastmod>2022-02-17</lastmod>
+    <lastmod>2022-02-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -28,19 +46,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://libin1218.github.io/2022/02/17/hello-world/</loc>
-    
-    <lastmod>2022-02-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://libin1218.github.io/</loc>
-    <lastmod>2022-02-17</lastmod>
+    <lastmod>2022-02-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
