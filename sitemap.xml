@@ -1,114 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://libin1218.github.io/guanyu/index.html</loc>
+
     
-    <lastmod>2022-02-18</lastmod>
     
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://libin1218.github.io/guidang/index.html</loc>
     
-    <lastmod>2022-02-18</lastmod>
     
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://libin1218.github.io/fenglei/index.html</loc>
     
-    <lastmod>2022-02-18</lastmod>
     
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://libin1218.github.io/biaoqian/index.html</loc>
-    
-    <lastmod>2022-02-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://libin1218.github.io/tages/index.html</loc>
-    
-    <lastmod>2022-02-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
   <url>
     <loc>https://libin1218.github.io/2022/02/17/index/</loc>
-    
-    <lastmod>2022-02-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://libin1218.github.io/comments/index.html</loc>
-    
-    <lastmod>2022-02-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://libin1218.github.io/bangzhu/index.html</loc>
-    
-    <lastmod>2022-02-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://libin1218.github.io/link/index.html</loc>
-    
-    <lastmod>2022-02-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://libin1218.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-02-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://libin1218.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-02-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
+    <lastmod>2022-02-18T06:42:54.585Z</lastmod>
+    <data>
+        <display>
+        <title>主页</title>
+        <pubTime>2022-02-17T14:28:32.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
 
-  <url>
-    <loc>https://libin1218.github.io/</loc>
-    <lastmod>2022-02-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  
-
-  
+    
+    
+    
+    
+    
 </urlset>
